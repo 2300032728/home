@@ -1,0 +1,53 @@
+[33mcommit de4ced7e0d59b4db2585949d43dedf10332f35e1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: shyamala <163737174+2300032728@users.noreply.github.com>
+Date:   Mon Jul 21 10:23:48 2025 +0530
+
+    Create README.md
+
+[33mcommit d63de0e9cc4deaba7b1101ee68aa9ad7bf6f4e0e[m[33m ([m[1;32mdev3[m[33m)[m
+Author: 2300032728 <2300032728@kluniversity.in>
+Date:   Mon Jul 21 10:07:06 2025 +0530
+
+    added login.html
+
+[33mcommit 73ceef72fe2442414c776b2a2843888bef24fdbf[m
+Author: 2300032728 <2300032728@kluniversity.in>
+Date:   Mon Jul 21 10:05:23 2025 +0530
+
+    added login.html
+
+[33mcommit 4f8624c0aee2d7c00b5a14892571a7c63887bfa3[m
+Author: 2300032728 <2300032728@kluniversity.in>
+Date:   Mon Jul 21 10:03:07 2025 +0530
+
+    added login.html
+
+[33mcommit 5a1f41506f3c5ed28d4ec71d8f957289c6969f2d[m[33m ([m[1;31morigin/dev2[m[33m, [m[1;32mdev2[m[33m)[m
+Author: 2300032728 <2300032728@kluniversity.in>
+Date:   Mon Jul 21 09:58:11 2025 +0530
+
+    added reg.html
+
+[33mcommit e789332f36e277de9140170d559539a6eae8e026[m[33m ([m[1;31morigin/dev1[m[33m, [m[1;32mdev1[m[33m)[m
+Author: 2300032728 <2300032728@kluniversity.in>
+Date:   Mon Jul 21 09:54:14 2025 +0530
+
+    added home.html
+
+[33mcommit 0611f113b31d1cbfe74e3fd6a9e09ddde760a327[m
+Author: 2300032728 <2300032728@kluniversity.in>
+Date:   Mon Jul 21 09:37:13 2025 +0530
+
+    added .gitignore file
+
+[33mcommit 1dc94e9109d919988cf8508dae65084f49f93fcb[m
+Author: 2300032728 <2300032728@kluniversity.in>
+Date:   Mon Jul 21 09:34:33 2025 +0530
+
+    added sample.txt
+
+[33mcommit ecd19297e866012157cdef61b398df0894b45e8a[m
+Author: 2300032728 <2300032728@kluniversity.in>
+Date:   Sun Jul 20 17:44:05 2025 +0530
+
+    this is my first commit
